@@ -1,0 +1,10 @@
+matplotlib
+numpy
+pandas
+seaborn
+streamlit
+altair
+plotly
+pydeck
+graphviz
+openai
