@@ -171,6 +171,7 @@ st.header("Query params", divider=True)
 
 '### `st.query_params()`'
 # http://localhost:8501/.9.otros?name=Pablo
+# https://uclm-tutorial.streamlit.app/.9.otros?name=Pablo
 
 if "name" in st.query_params:
     st.write(f"Hola, {st.query_params['name']}!")
