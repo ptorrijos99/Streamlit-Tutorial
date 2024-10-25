@@ -8,3 +8,4 @@ plotly
 pydeck
 graphviz
 openai
+scipy
